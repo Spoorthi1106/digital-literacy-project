@@ -1,0 +1,9 @@
+Cybercrime has become commonplace in our modern digital era, and phishing is one of the more serious types. Student phishing often involves the use of rewarding enticements such as scholarships, rewards or internship opportunities to defraud them into revealing their personal information.
+
+In one such instance, the student received an email which stated that they had been chosen to receive an esteemed scholarship award. It looked entirely legitimate, with the presence of official emblems and authoritative language. A time constraint was also included to impress upon the student the urgency of the matter. The student was directed to click on a link and enter the form with their personal information, including name, bank account number, and OTP number "for verification purposes".
+
+Without verifying its authenticity, the student hurried to fill in the form to seize the amazing opportunity. However, hours later, multiple unauthorized withdrawals were detected in the student's account. He/She was unaware that the email was fictitious and a scam intended to obtain their financial data.
+
+The above incidence proves that cybercriminals utilize human emotions of greed, trust, or anxiety for their own advantage and use deceptively real emails to carry out these scams. It can be understood from the above example that cybercriminals manipulate people's sense of hope or greed by promising lucrative returns in the form of cash or scholarships etc., through emails, texts, or websites.
+
+Consequently, remaining cautious in your digital endeavors is essential. Verify the origin, avoid suspicious links and don't divulge sensitive information; vigilance is the only shield against these scams.
